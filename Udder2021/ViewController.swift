@@ -13,9 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     }
     
-    override func didReceiveMemoryWarning() {
-    super.didReceiveMemoryWarning()
-   }
+  
     
     override func viewWillAppear(_ animated: Bool) {
         
