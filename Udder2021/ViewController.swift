@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     }
     
-  
+  //no la funkai
     
     override func viewWillAppear(_ animated: Bool) {
         
